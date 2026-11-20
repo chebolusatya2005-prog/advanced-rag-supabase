@@ -1,0 +1,12 @@
+
+.env
+.env.*
+!.env.example
+
+venv/
+advance_rag/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+vectorstore/
